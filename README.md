@@ -2,7 +2,7 @@
 
 Build:
 
-sudo apt install libglm-dev
+sudo apt install libglm-dev libvulkan-dev
 ./build_lnx.sh
 
 Run:
