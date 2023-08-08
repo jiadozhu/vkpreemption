@@ -1,6 +1,6 @@
 /*
  * *
- * * Copyright (C) 2020 Samsung Electronics
+ * * Copyright (C) 2023 Advanced Micro Devices, Inc.
  * *
  * */
 
@@ -347,7 +347,7 @@ int gfx(std::vector<Request> &requests, bool isServer) {
             }
         }
         if (i == RUN_TIMES) {
-            printf("****************************FAIL****************************\n");
+            printf("run again to trigger mcbp.\n");
         }
     }
     else

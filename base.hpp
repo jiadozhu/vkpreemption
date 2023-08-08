@@ -1,6 +1,6 @@
 /*
  * *
- * * Copyright (C) 2020 Samsung Electronics
+ * * Copyright (C) 2023 Advanced Micro Devices, Inc.
  * *
  * */
 
